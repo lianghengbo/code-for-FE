@@ -1,13 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Group member: 
-    
-    Li, Xiyu: xl2940 
-    Lu, Yunzhi: yl4352 
-    Liang, Hengbo: hl3308 
-    
-"""
 
 from scipy.io import loadmat
 import numpy as np
